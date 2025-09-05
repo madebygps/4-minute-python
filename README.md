@@ -46,5 +46,4 @@ This repo contains code from my series of 4 minute videos on python.
 |--------|----------------------|---------------------------------------------------------------|-------------|
 | video1 | `snippets/video1/`   | `for_loop.py`, `list_comp.py`, `README.md`, `words.txt`       | Compares a basic for-loop versus a list comprehension using the same word list. |
 | video2 | `snippets/video2/`   | `gen_exps.py`, `README.md`, `words.txt`                       | Demonstrates generator expressions and their memory/iteration behavior. |
-| video3 | `snippets/video3/`   | (empty for now)                                               | Placeholder for upcoming snippet(s). |
-
+| video3 | `snippets/video3/`   | `unpacking.py`, `README.md`                                   | Shows variable unpacking: basic tuple/list, ignoring values with `_`, starred (extended) unpacking, and a simple `*args` example. |
